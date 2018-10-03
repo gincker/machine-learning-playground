@@ -22,7 +22,9 @@ Currently, Gincker AI has implemented over 30 ML models, as shown in the followi
 
 ### Demos
 
-Here are some sample results from our ML playground (click the images to see the live demonstration):
+Here are some sample results from our ML playground. Click the images to see the live demonstration:
+
+*(Note: depending on your computer and broswer, sometimes, the results may not be displayed on your screen automatically after clicking the following images. In this case, you need to reload the web page to see the results.)*
 
 [<img src="https://gincker.com/images/ai/nn-regr.png" width="300" width="300" title="neural network: regression">](https://gincker.com/AI/neural-network-regression-levenberg-marquardt)
 [<img src="https://gincker.com/images/ai/nn-timeseries.png" width="300" width="300" title="neural network: time series">](https://gincker.com/AI/neural-network-time-series-levenberg-marquardt#O3i2FtBKcU)
