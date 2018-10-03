@@ -24,9 +24,9 @@ Currently, Gincker AI has implemented over 30 ML models, as shown in the followi
 
 Here are some sample results from our ML playground (click the images to see the live demonstration):
 
-[<img src="https://gincker.com/images/ai/knn-class.png" width="300" width="300" title="knn: classification">](https://gincker.com/AI/k-nearest-neighbor)
 [<img src="https://gincker.com/images/ai/nn-regr.png" width="300" width="300" title="neural network: regression">](https://gincker.com/AI/neural-network-regression-levenberg-marquardt)
 [<img src="https://gincker.com/images/ai/nn-timeseries.png" width="300" width="300" title="neural network: time series">](https://gincker.com/AI/neural-network-time-series-levenberg-marquardt#O3i2FtBKcU)
+[<img src="https://gincker.com/images/ai/knn-class.png" width="300" width="300" title="knn: classification">](https://gincker.com/AI/k-nearest-neighbor)
 [<img src="https://gincker.com/images/ai/nn-handwriting.png" width="300" width="300" title="neural network: handwriting">](https://gincker.com/AI/convolutional-neural-network)
 [<img src="https://gincker.com/images/ai/som-color.png" width="300" width="300" title="som: color clustering">](https://gincker.com/AI/neural-network-kohonen-color-map)
 [<img src="https://gincker.com/images/ai/som-salesman.png" width="300" width="300" title="som: traveling salesman">](https://gincker.com/AI/neural-network-traveling-salesman)
