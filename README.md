@@ -16,7 +16,7 @@ playground has the following main features:
 
 ### Machine Learning Models on Gincker AI
 
-Currently, Gincker AI has implemented over 30 ML models, as shown in the following image. We'll add more machine learning models to our playground gradually.
+Currently, Gincker AI has implemented over 30 ML models, as shown in the following image. We'll add more machine learning models to this playground over time.
 
 <img src="https://gincker.com/images/ai/gincker-ai.png">
 
